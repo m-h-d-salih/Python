@@ -45,3 +45,8 @@ print(a < b)
 print(a > b)
 print(a >= b)
 print(a <= b)
+# logical
+a=10
+print(a == 10 and a<15)
+print(a == 10 or a>15)
+print(not (a==10) )
