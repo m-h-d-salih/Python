@@ -12,3 +12,10 @@ elif b<0:
     print('-ve')
 else :
     print('zero')
+if a>0:
+    if a==5:
+        print(a, 'is 5')
+    else:
+        print(a,' is not 5')
+else:
+    print('negative')
