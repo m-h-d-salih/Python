@@ -19,3 +19,11 @@ if a>0:
         print(a,' is not 5')
 else:
     print('negative')
+# loop
+while True :
+    print(a)
+    if a<0:
+        break
+    a-=1
+
+
